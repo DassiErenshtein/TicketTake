@@ -1,7 +1,55 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\TickeTake\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Repository\\Migrations\\20250514191107_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Migrations\\20250514191107_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0638A890-2468-49CC-B3CB-0EDCEC53D694}|Repository\\Repository.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\repository\\ticketakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0638A890-2468-49CC-B3CB-0EDCEC53D694}|Repository\\Repository.csproj|solutionrelative:repository\\ticketakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\core\\entities\\eventshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|solutionrelative:core\\entities\\eventshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\core\\entities\\placeinhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|solutionrelative:core\\entities\\placeinhall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\core\\entities\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|solutionrelative:core\\entities\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|solutionrelative:core\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\core\\entities\\eventowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|solutionrelative:core\\entities\\eventowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3462AC-91C0-4480-BA4D-A69608994C4F}|Api\\Api.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3462AC-91C0-4480-BA4D-A69608994C4F}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\e3226\\AppData\\Roaming\\Microsoft\\UserSecrets\\194caadd-9886-49e4-b88f-cec57736dd29\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\core\\entities\\ticketlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|solutionrelative:core\\entities\\ticketlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|c:\\users\\e3226\\documents\\dassi\\maslul\\b\\projects\\c#\\tickettake\\core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECD37BE-FBAC-4648-BC7E-F2B14BC65CB3}|Core\\Core.csproj|solutionrelative:core\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api\\Api.ApiService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Api\\Api.ApiService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +57,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250514191107_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Repository\\Migrations\\20250514191107_Initial.cs",
+              "RelativeDocumentMoniker": "Repository\\Migrations\\20250514191107_Initial.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Repository\\Migrations\\20250514191107_Initial.cs",
+              "RelativeToolTip": "Repository\\Migrations\\20250514191107_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:11:10.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceInHall.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\PlaceInHall.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\PlaceInHall.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\PlaceInHall.cs",
+              "RelativeToolTip": "Core\\Entities\\PlaceInHall.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:04:23.698Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\e3226\\AppData\\Roaming\\Microsoft\\UserSecrets\\194caadd-9886-49e4-b88f-cec57736dd29\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\194caadd-9886-49e4-b88f-cec57736dd29\\secrets.json",
+              "ToolTip": "C:\\Users\\e3226\\AppData\\Roaming\\Microsoft\\UserSecrets\\194caadd-9886-49e4-b88f-cec57736dd29\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\194caadd-9886-49e4-b88f-cec57736dd29\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T18:40:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:24:17.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TickeTakeContext.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Repository\\TickeTakeContext.cs",
+              "RelativeDocumentMoniker": "Repository\\TickeTakeContext.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Repository\\TickeTakeContext.cs",
+              "RelativeToolTip": "Repository\\TickeTakeContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:00:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api\\Api.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Api.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api\\Api.ApiService\\Program.cs",
+              "RelativeToolTip": "Api\\Api.ApiService\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:57:59.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\Ticket.cs",
+              "RelativeToolTip": "Core\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:53:29.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\Hall.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Hall.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\Hall.cs",
+              "RelativeToolTip": "Core\\Entities\\Hall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:52:33.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\Event.cs",
+              "RelativeToolTip": "Core\\Entities\\Event.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:40:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketLevel.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\TicketLevel.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\TicketLevel.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\TicketLevel.cs",
+              "RelativeToolTip": "Core\\Entities\\TicketLevel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:33:42.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventShow.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\EventShow.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\EventShow.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\EventShow.cs",
+              "RelativeToolTip": "Core\\Entities\\EventShow.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:32:20.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventOwner.cs",
+              "DocumentMoniker": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\EventOwner.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\EventOwner.cs",
+              "ToolTip": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Core\\Entities\\EventOwner.cs",
+              "RelativeToolTip": "Core\\Entities\\EventOwner.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:32:38.609Z",
+              "EditorCaption": ""
             }
           ]
         }

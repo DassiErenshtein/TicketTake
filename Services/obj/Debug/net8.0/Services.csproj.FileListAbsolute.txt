@@ -1,0 +1,12 @@
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\bin\Debug\net8.0\Services.dll
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\Services.sourcelink.json
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\Services.dll
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\e3226\Documents\dassi\maslul\b\projects\C#\TicketTake\Services\obj\Debug\net8.0\ref\Services.dll

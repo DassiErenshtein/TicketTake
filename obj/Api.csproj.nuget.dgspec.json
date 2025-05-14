@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\TickeTake\\Api.csproj": {}
+    "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\TickeTake\\Api.csproj": {
+    "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\TickeTake\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\TickeTake\\Api.csproj",
+        "projectPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\Api.csproj",
         "packagesPath": "C:\\Users\\e3226\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\TickeTake\\obj\\",
+        "outputPath": "C:\\Users\\e3226\\Documents\\dassi\\maslul\\b\\projects\\C#\\TicketTake\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

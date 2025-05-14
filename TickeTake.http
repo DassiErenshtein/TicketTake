@@ -1,0 +1,6 @@
+@TickeTake_HostAddress = http://localhost:5095
+
+GET {{TickeTake_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
